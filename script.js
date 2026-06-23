@@ -1,0 +1,1 @@
+window.alert ("ALERTA: MAIOR SITE DO MUNDO")
